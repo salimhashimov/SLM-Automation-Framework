@@ -1,0 +1,5 @@
+com\saucedemo\tests\steps\InventorySteps.class
+com\saucedemo\tests\runners\RunCucumberTest.class
+com\saucedemo\tests\hooks\Hooks.class
+com\saucedemo\tests\steps\LoginSteps.class
+com\saucedemo\tests\steps\CheckoutSteps.class

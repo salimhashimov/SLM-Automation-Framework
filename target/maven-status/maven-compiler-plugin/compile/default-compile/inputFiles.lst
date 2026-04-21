@@ -1,0 +1,13 @@
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\config\ConfigManager.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\core\BasePage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\driver\BrowserFactory.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\driver\DriverManager.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\pages\CartPage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\pages\CheckoutOverviewPage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\pages\CheckoutPage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\pages\LoginPage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\pages\ProductsPage.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\utils\ElementActions.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\utils\JsonDataReader.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\utils\ScreenshotUtils.java
+C:\Users\ikinc\Downloads\SLM-Automation-Framework\src\main\java\com\saucedemo\framework\utils\WaitUtils.java

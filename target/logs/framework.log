@@ -1,0 +1,24 @@
+2026-04-13 19:17:47 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:17:47 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:17:48 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:17:48 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:17:51 [TestNG-PoolService-1] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Complete checkout for a single product on browser=chrome
+2026-04-13 19:17:51 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Sort products from Z to A on browser=chrome
+2026-04-13 19:18:05 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Sort products from Z to A with status=PASSED
+2026-04-13 19:18:05 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:18:05 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:18:06 [TestNG-PoolService-1] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Complete checkout for a single product with status=PASSED
+2026-04-13 19:18:06 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:18:06 [TestNG-PoolService-1] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:18:06 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Add a product to the cart from the products page on browser=chrome
+2026-04-13 19:18:07 [TestNG-PoolService-1] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Remove a product from the products page on browser=chrome
+2026-04-13 19:18:14 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Add a product to the cart from the products page with status=PASSED
+2026-04-13 19:18:14 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:18:14 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:18:15 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Successful login with a standard user on browser=chrome
+2026-04-13 19:18:29 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Successful login with a standard user with status=PASSED
+2026-04-13 19:18:29 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 146.0.7680.165 (resolved driver for Chrome 146)
+2026-04-13 19:18:29 [TestNG-PoolService-2] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ikinc\.cache\selenium\chromedriver\win64\146.0.7680.165\chromedriver.exe
+2026-04-13 19:18:30 [TestNG-PoolService-1] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Remove a product from the products page with status=PASSED
+2026-04-13 19:18:30 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Starting scenario: Blocked login for a locked out user on browser=chrome
+2026-04-13 19:18:31 [TestNG-PoolService-2] INFO  com.saucedemo.tests.hooks.Hooks - Finished scenario: Blocked login for a locked out user with status=PASSED
