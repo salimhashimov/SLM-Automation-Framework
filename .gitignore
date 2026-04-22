@@ -1,0 +1,51 @@
+# Build and Test Results
+target/
+allure-results/
+.allure/
+
+# IDE Files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+
+# Screenshots (if you want to exclude from repo)
+screenshots/
+target/screenshots/
+
+# TestNG Reports
+testng-results.xml
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# Environment specific
+.env
+.env.local
+.env.production
+
+# Node modules (if using frontend tools)
+node_modules/
+
+# Coverage Reports
+coverage/
+*.lcov
+
+# Backup files
+*.bak
+*.backup

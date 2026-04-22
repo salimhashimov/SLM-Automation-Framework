@@ -1,9 +1,0 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite name="SauceDemo UI Suite" verbose="1" data-provider-thread-count="2">
-    <test name="Cucumber Scenarios">
-        <classes>
-            <class name="com.saucedemo.tests.runners.RunCucumberTest"/>
-        </classes>
-    </test>
-</suite>
-

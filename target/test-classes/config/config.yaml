@@ -1,5 +1,0 @@
-baseUrl: https://www.saucedemo.com/
-browser: chrome
-headless: false
-timeoutSeconds: 15
-
